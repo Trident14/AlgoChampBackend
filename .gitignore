@@ -1,0 +1,8 @@
+# Ignore .env file
+.env
+
+# Ignore /target directory
+/target
+
+# Ignore secrets.properties file
+secrets.properties
